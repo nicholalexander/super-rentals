@@ -61,6 +61,17 @@ export default function() {
           bedrooms: 3,
           image: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg'
         }
+      }, {
+        type: 'rentals',
+        id: 'downtown-charmer-bit',
+        attributes: {
+          title: 'asdf asdf',
+          owner: '234234',
+          city: 'Port234234234land',
+          "property-type": '1343243',
+          bedrooms: 3,
+          image: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg'
+        }
       }]
     };
   });
